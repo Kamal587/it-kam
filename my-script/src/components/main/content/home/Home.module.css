@@ -1,0 +1,48 @@
+.home img {
+    width: 100%;
+}
+
+.text{
+    border: 5px solid rebeccapurple;
+    border-radius: 30px;
+    padding: 10px;
+}
+
+
+
+.fullUser {
+    width: 300px;
+}
+
+.fullName{
+    text-align: center;
+    font: bold 30px/18px Roboto;
+    margin-top: 10px;
+}
+
+.user{
+    display: flex;
+    margin: 20px;
+   
+}
+
+.infoUser{
+    width: 600px;
+    margin-left: 100px;
+}
+
+    .status{
+        font: italic 20px/35px Roboto;
+        padding: 10px;
+        background-color: rgb(163, 162, 162);
+        border-radius: 30px;
+
+    }
+
+    .contacts{
+        font:  20px/35px Arial;
+    }
+
+    .job{
+        font:bold  20px/35px Arial;
+    }

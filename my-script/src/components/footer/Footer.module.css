@@ -1,0 +1,8 @@
+.footer {
+   
+    grid-area: f;
+    background-color: aqua;
+    text-align: center;
+    padding: 10px;
+    font: italic 13px/17px Arial
+}

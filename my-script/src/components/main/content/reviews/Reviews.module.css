@@ -1,0 +1,46 @@
+
+.wrap {
+    width: 900px;
+    padding: 10px 30px 10px 30px;
+    border: 3px solid rgb(162, 163, 163);
+    margin: 10px auto;
+    border-radius: 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+
+.avatarka img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+.status {
+    font: italic 18px/15px Roboto;
+    
+    
+}
+
+.location {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    font: bold 20px/15px Roboto;
+}
+
+.city{
+    padding-bottom: 50px;
+    font: 20px/15px Roboto;
+}
+
+.watched {
+    padding: 5px 15px;
+}
+
+.pageActive{
+    font-weight: bold;
+}

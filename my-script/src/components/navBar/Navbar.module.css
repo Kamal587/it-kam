@@ -1,0 +1,25 @@
+.navbar{
+    grid-area: n;
+    background-color: rgb(177, 176, 176);
+    
+}
+
+.nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.nav a{
+    text-decoration: none;
+    font: bold 17px/40px Arial;
+    color: rgba(0, 0, 0, 0.692);
+}
+
+.nav a:hover{
+    color: rgb(58, 2, 2);
+    
+}
+a.active {
+    color: rgb(165, 141, 5);
+}

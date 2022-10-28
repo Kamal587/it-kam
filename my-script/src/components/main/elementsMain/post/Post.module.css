@@ -1,0 +1,39 @@
+.item {
+    width: 700px;
+    border: 7px solid teal;
+    border-radius: 10px;
+    padding: 10px;
+    position: relative;
+    margin: 10px;
+}
+
+.ava  {
+    width: 70px;
+    height: 70px;
+    margin-right: 30px;
+    text-align: center;
+}
+
+
+.ava img{
+    border-radius: 50%;
+}
+
+
+.item button {
+    text-shadow: 0.5px 0.5px 0.3px;
+    
+}
+
+.message {
+    display: flex;
+    flex-direction: row;
+    font: bold italic 15px/25px Arial;
+}
+
+.grade{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+}
+

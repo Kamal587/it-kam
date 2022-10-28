@@ -1,0 +1,22 @@
+.dialogs{
+    display: grid;
+    grid-template-columns: 300px 1fr;
+    background-color: aquamarine;
+}
+
+.items{
+    padding: 20px;
+}
+
+.items a{
+    text-decoration: none;
+    color: rgb(70, 69, 69);
+    font: bold 18px/30px Arial;
+}
+
+.items_dialog{
+    padding: 20px;
+    background-color: rgb(51, 250, 184);
+    font: italic 16px/30px Arial;
+}
+

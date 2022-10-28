@@ -1,0 +1,14 @@
+.wrapper{
+
+    margin: 0 auto;
+    width: 1440px;
+    display: grid;
+    grid-template-rows: 80px 40px 1fr 80px;
+    grid-template-areas: 
+       'h h'
+       'n n'
+       'm m'
+       'f f';
+   
+}
+
